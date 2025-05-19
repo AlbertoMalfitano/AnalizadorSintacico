@@ -1,7 +1,9 @@
 # AnalizadorSintactico
 
 Integrantes
+
+
 *Alberto de Jesus Malfitano Antunez
 
 
-Jorge Nicolas Peralta Rolon
+*Jorge Nicolas Peralta Rolon
